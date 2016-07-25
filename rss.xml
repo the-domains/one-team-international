@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[one team international]]></title>
         <description><![CDATA[one team international]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/one-team-international/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 22:22:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jul 2016 22:32:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/one-team-international/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Body Care]]></title>
+            <description><![CDATA[<article><h1>Body Care</h1><p>have you ever tried safe ingredients in your hair and body?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c92fbe6-2105-4931-b551-b86b7a4d57b2.png"></article>]]></description>
+            <link>https://thegrid.ai/one-team-international/body-care/index.html</link>
+            <guid isPermaLink="false">dcb48c78-8113-4256-a375-9c3669b22b04</guid>
+            <pubDate>Mon, 25 Jul 2016 22:32:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d608984a-28a3-42a7-ad3d-4718c29d480b.png">]]></description>
-            <link>undefinedb7da40e4-964e-4364-93f9-244289e5df56/index.html</link>
+            <link>https://thegrid.ai/one-team-international/b7da40e4-964e-4364-93f9-244289e5df56/index.html</link>
             <guid isPermaLink="false">b7da40e4-964e-4364-93f9-244289e5df56</guid>
             <pubDate>Mon, 25 Jul 2016 22:22:14 GMT</pubDate>
         </item>
